@@ -6,14 +6,12 @@ A full-stack online assessment platform with an **Employer Panel** and **Candida
 
 ## 🚀 Live Demo
 
-- **Frontend:** _Add your Vercel link here_
-- **Backend API:** _Add your Render link here_
-
----
+- **Frontend:** https://assessmentplatformbd.web.app/login
+- **Backend API:** https://assessment-platform-api.vercel.app/api
 
 ## 📽️ Video Recording
 
-_Add your Loom / YouTube recording link here_
+_Not recorded yet._
 
 ---
 
